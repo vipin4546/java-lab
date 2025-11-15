@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MaxOccurringChar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a string: ");
+        System.out.print("Enter a string: ");V
         String str = sc.nextLine();
 
         int[] count = new int[256];   // ASCII size
